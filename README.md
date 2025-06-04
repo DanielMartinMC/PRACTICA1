@@ -18,7 +18,9 @@ En este proyecto aprenderemos a:
 - [Documentación de GitHub](https://docs.github.com)
 - [Guía de Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## Tecnologías Utilizadas
+## Imagen de Ejemplo
+
+![Logo de Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 ### Lista no numerada:
 - Git
@@ -33,13 +35,3 @@ En este proyecto aprenderemos a:
 3. Modificar archivos
 4. Confirmar cambios
 5. Subir cambios
-
-## Imagen de Ejemplo
-
-![Logo de Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-
-## Estado del Proyecto
-
-**Completado**: ✅ Primera parte  
-*En progreso*: 🔄 Segunda parte  
-**Pendiente**: ⏳ Tercera parte  
